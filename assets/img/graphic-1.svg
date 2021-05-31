@@ -1,0 +1,327 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="656" height="487" viewBox="0 0 656 487">
+    <defs>
+        <filter id="prefix__a" width="116.7%" height="200%" x="-8.4%" y="-40%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.156862745 0 0 0 0 0.415686275 0 0 0 0 0.866666667 0 0 0 0.4 0"/>
+        </filter>
+        <filter id="prefix__c" width="225%" height="225%" x="-62.5%" y="-42.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.373678986 0 0 0 0 0.468478225 0 0 0 0 0.610677083 0 0 0 0.3 0"/>
+        </filter>
+        <filter id="prefix__e" width="118.1%" height="191.5%" x="-9%" y="-40.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.231372549 0 0 0 0 0.635294118 0 0 0 0.2 0"/>
+        </filter>
+        <filter id="prefix__g" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__i" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__k" width="118.1%" height="163.5%" x="-9%" y="-28.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__m" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__o" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__q" width="118.1%" height="163.5%" x="-9%" y="-28.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__s" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__u" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__w" width="126.8%" height="194.1%" x="-13.4%" y="-41.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="12.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.231372549 0 0 0 0 0.635294118 0 0 0 0.2 0"/>
+        </filter>
+        <filter id="prefix__y" width="225%" height="225%" x="-62.5%" y="-42.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.373678986 0 0 0 0 0.468478225 0 0 0 0 0.610677083 0 0 0 0.3 0"/>
+        </filter>
+        <filter id="prefix__A" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__C" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__E" width="116.7%" height="200%" x="-8.4%" y="-40%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="7.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.156862745 0 0 0 0 0.415686275 0 0 0 0 0.866666667 0 0 0 0.4 0"/>
+        </filter>
+        <filter id="prefix__G" width="118.1%" height="191.5%" x="-9%" y="-40.7%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.231372549 0 0 0 0 0.635294118 0 0 0 0.2 0"/>
+        </filter>
+        <filter id="prefix__I" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__K" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__M" width="118.1%" height="163.5%" x="-9%" y="-28.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.231372549 0 0 0 0 0.635294118 0 0 0 0.2 0"/>
+        </filter>
+        <filter id="prefix__O" width="205%" height="205%" x="-52.5%" y="-37.5%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="3"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.08 0"/>
+        </filter>
+        <filter id="prefix__Q" width="550%" height="550%" x="-225%" y="-200%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.499462183 0 0 0 0 0.353155079 0 0 0 0.197333916 0"/>
+        </filter>
+        <filter id="prefix__S" width="118.1%" height="163.5%" x="-9%" y="-28.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="3" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="8.5"/>
+            <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0.231372549 0 0 0 0 0.635294118 0 0 0 0.2 0"/>
+        </filter>
+        <circle id="prefix__d" cx="10" cy="10" r="10"/>
+        <circle id="prefix__h" cx="10" cy="10" r="10"/>
+        <circle id="prefix__j" cx="10" cy="10" r="6"/>
+        <circle id="prefix__n" cx="10" cy="10" r="10"/>
+        <circle id="prefix__p" cx="10" cy="10" r="6"/>
+        <circle id="prefix__t" cx="10" cy="10" r="10"/>
+        <circle id="prefix__v" cx="10" cy="10" r="6"/>
+        <circle id="prefix__z" cx="10" cy="10" r="10"/>
+        <circle id="prefix__B" cx="10" cy="10" r="10"/>
+        <circle id="prefix__D" cx="10" cy="10" r="6"/>
+        <circle id="prefix__J" cx="10" cy="10" r="10"/>
+        <circle id="prefix__L" cx="10" cy="10" r="6"/>
+        <circle id="prefix__P" cx="10" cy="10" r="10"/>
+        <circle id="prefix__R" cx="10" cy="10" r="6"/>
+        <rect id="prefix__b" width="299" height="50" x="0" y="10" rx="5"/>
+        <rect id="prefix__f" width="299" height="59" x="0" y="0" rx="12"/>
+        <rect id="prefix__l" width="299" height="85" x="0" y="0" rx="12"/>
+        <rect id="prefix__r" width="299" height="85" x="0" y="0" rx="12"/>
+        <rect id="prefix__x" width="299" height="85" x="0" y="10" rx="12"/>
+        <rect id="prefix__F" width="299" height="50" x="0" y="0" rx="5"/>
+        <rect id="prefix__H" width="299" height="59" x="0" y="0" rx="12"/>
+        <rect id="prefix__N" width="299" height="85" x="0" y="0" rx="12"/>
+        <rect id="prefix__T" width="299" height="85" x="0" y="0" rx="12"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(25 3)">
+        <use fill="#000" filter="url(#prefix__a)" xlink:href="#prefix__b"/>
+        <use fill="#286ADD" xlink:href="#prefix__b"/>
+        <g transform="translate(289)">
+            <use fill="#000" filter="url(#prefix__c)" xlink:href="#prefix__d"/>
+            <use fill="#FFF" xlink:href="#prefix__d"/>
+            <path fill="#C5D2E4" fill-rule="nonzero" d="M9.998 0C4.476 0 0 4.478 0 10s4.476 10 9.998 10C15.523 20 20 15.522 20 10S15.523 0 9.998 0zm3.233 8.26v5.632c0 .621-.481 1.127-1.073 1.127H7.867c-.592 0-1.073-.506-1.073-1.127V8.26h6.437zm-2.146-3.254v.563h2.682v1.127h-7.51V5.569H8.94v-.563h2.145z"/>
+        </g>
+        <path fill="#8BB2F6" fill-rule="nonzero" d="M277 28c3.865 0 7 3.135 7 7s-3.135 7-7 7-7-3.135-7-7 3.135-7 7-7zm.358 5.784h-1.343c-.18 0-.333.141-.333.333v.691c0 .18.14.333.333.333h.268v2.124h-.268c-.18 0-.333.14-.333.333v.69c0 .18.14.334.333.334h1.97c.18 0 .333-.141.333-.333v-.691c0-.192-.153-.346-.333-.346h-.294v-3.135c0-.18-.14-.333-.333-.333zm-.37-2.406c-.052 0-.116 0-.167.013-.051.013-.103.026-.154.051h-.013c-.05.026-.102.052-.14.077-.051.039-.09.064-.128.103-.039.038-.077.076-.103.115-.025.038-.05.09-.076.14-.026.052-.039.103-.052.154-.012.064-.012.115-.012.166 0 .052 0 .116.012.167.013.102.039.153.052.205.025.05.05.102.076.14.026.039.064.077.09.115.038.039.077.077.128.116.038.025.09.064.153.076.052.026.103.039.167.052.064.012.115.012.166.012.051 0 .115 0 .167-.012.05-.013.102-.026.14-.052h.013c.051-.025.103-.05.154-.09.038-.025.076-.063.115-.102l.013-.012c.038-.039.064-.077.09-.115.025-.039.05-.077.063-.128 0-.013 0-.013.013-.026.026-.051.038-.115.051-.166.013-.052.013-.116.013-.167 0-.051 0-.115-.013-.166-.013-.051-.025-.103-.051-.166-.038-.09-.09-.167-.154-.23l-.025-.026c-.039-.039-.077-.064-.128-.103-.051-.025-.09-.051-.14-.077-.052-.025-.103-.038-.154-.05-.064-.014-.116-.014-.167-.014z"/>
+        <text fill="#FFF" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+            <tspan x="20" y="40">Release v3.0</tspan>
+        </text>
+        <g transform="translate(0 90)">
+            <use fill="#000" filter="url(#prefix__e)" xlink:href="#prefix__f"/>
+            <use fill="#FFF" xlink:href="#prefix__f"/>
+            <g transform="translate(259 20)">
+                <use fill="#000" filter="url(#prefix__g)" xlink:href="#prefix__h"/>
+                <use fill="#FFF" xlink:href="#prefix__h"/>
+                <g>
+                    <use fill="#000" filter="url(#prefix__i)" xlink:href="#prefix__j"/>
+                    <use fill="#10D69C" xlink:href="#prefix__j"/>
+                </g>
+            </g>
+            <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                <tspan x="20" y="34">Real Time Collaboration</tspan>
+            </text>
+        </g>
+        <g transform="translate(0 274)">
+            <use fill="#000" filter="url(#prefix__k)" xlink:href="#prefix__l"/>
+            <use fill="#FFF" xlink:href="#prefix__l"/>
+            <g transform="translate(259 19)">
+                <use fill="#000" filter="url(#prefix__m)" xlink:href="#prefix__n"/>
+                <use fill="#FFF" xlink:href="#prefix__n"/>
+                <g>
+                    <use fill="#000" filter="url(#prefix__o)" xlink:href="#prefix__p"/>
+                    <use fill="#ED4F73" xlink:href="#prefix__p"/>
+                </g>
+            </g>
+            <g transform="translate(20 44)">
+                <rect width="81" height="21" fill="#F4F4F4" rx="4"/>
+                <text fill="#8F8F8F" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">Development</tspan>
+                </text>
+            </g>
+            <g transform="translate(111 44)">
+                <rect width="78" height="20" x=".5" y=".5" fill="#FFF" stroke="#000" rx="4"/>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">Monetization</tspan>
+                </text>
+            </g>
+            <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                <tspan x="20" y="34">Release Notes</tspan>
+            </text>
+        </g>
+        <g transform="translate(0 379)">
+            <use fill="#000" filter="url(#prefix__q)" xlink:href="#prefix__r"/>
+            <use fill="#FFF" xlink:href="#prefix__r"/>
+            <g transform="translate(259 19)">
+                <use fill="#000" filter="url(#prefix__s)" xlink:href="#prefix__t"/>
+                <use fill="#FFF" xlink:href="#prefix__t"/>
+                <g>
+                    <use fill="#000" filter="url(#prefix__u)" xlink:href="#prefix__v"/>
+                    <use fill="#10D69C" xlink:href="#prefix__v"/>
+                </g>
+            </g>
+            <g transform="translate(20 44)">
+                <rect width="40" height="21" fill="#F4F4F4" rx="4"/>
+                <text fill="#8F8F8F" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">UAT</tspan>
+                </text>
+            </g>
+            <g transform="translate(70 44)">
+                <rect width="56" height="20" x=".5" y=".5" fill="#FFF" stroke="#000" rx="4"/>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">Security</tspan>
+                </text>
+            </g>
+            <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                <tspan x="20" y="34">Google Apps SSO</tspan>
+            </text>
+        </g>
+        <g transform="translate(0 159)">
+            <use fill="#000" filter="url(#prefix__w)" xlink:href="#prefix__x"/>
+            <use fill="#FFF" xlink:href="#prefix__x"/>
+            <g transform="translate(289)">
+                <use fill="#000" filter="url(#prefix__y)" xlink:href="#prefix__z"/>
+                <use fill="#FFF" xlink:href="#prefix__z"/>
+                <path fill="#C5D2E4" fill-rule="nonzero" d="M9.998 0C4.476 0 0 4.478 0 10s4.476 10 9.998 10C15.523 20 20 15.522 20 10S15.523 0 9.998 0zm3.233 8.26v5.632c0 .621-.481 1.127-1.073 1.127H7.867c-.592 0-1.073-.506-1.073-1.127V8.26h6.437zm-2.146-3.254v.563h2.682v1.127h-7.51V5.569H8.94v-.563h2.145z"/>
+            </g>
+            <g transform="translate(259 29)">
+                <use fill="#000" filter="url(#prefix__A)" xlink:href="#prefix__B"/>
+                <use fill="#FFF" xlink:href="#prefix__B"/>
+                <g>
+                    <use fill="#000" filter="url(#prefix__C)" xlink:href="#prefix__D"/>
+                    <use fill="#10D69C" xlink:href="#prefix__D"/>
+                </g>
+            </g>
+            <g transform="translate(20 54)">
+                <rect width="65" height="21" fill="#F4F4F4" rx="4"/>
+                <text fill="#8F8F8F" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">In-Design</tspan>
+                </text>
+            </g>
+            <g transform="translate(95 54)">
+                <rect width="95" height="22" x="-.5" y="-.5" fill="#FFF" stroke="#000" rx="4"/>
+                <path fill="#000" fill-rule="nonzero" d="M82 9.817c0-.202.075-.405.225-.563.31-.327.828-.34 1.155-.03l1.923 1.83 1.91-1.827c.326-.312.844-.3 1.156.025.312.327.3.844-.026 1.156l-2.473 2.365c-.315.302-.811.303-1.128.002l-2.488-2.365c-.169-.161-.254-.376-.254-.593z"/>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                    <tspan x="10" y="14">Enhancements</tspan>
+                </text>
+            </g>
+            <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                <tspan x="20" y="44">Master Features</tspan>
+            </text>
+            <path fill="#000" d="M185.239 79.835l-8.741-8.75c-.084-.083-.209-.108-.318-.063-.109.045-.18.152-.18.27v12.833c0 .123.077.233.193.275.116.042.246.005.324-.09l2.327-2.847 1.553 3.368c.05.106.155.169.265.169.038 0 .077-.008.115-.024l2.04-.875c.072-.03.129-.09.157-.163.028-.074.025-.155-.008-.227l-1.558-3.378h3.625c.117 0 .224-.07.269-.18.045-.109.02-.234-.063-.318z"/>
+        </g>
+        <g transform="translate(315 10)">
+            <use fill="#000" filter="url(#prefix__E)" xlink:href="#prefix__F"/>
+            <use fill="#286ADD" xlink:href="#prefix__F"/>
+            <path fill="#8BB2F6" fill-rule="nonzero" d="M277 18c3.865 0 7 3.135 7 7s-3.135 7-7 7-7-3.135-7-7 3.135-7 7-7zm.358 5.784h-1.343c-.18 0-.333.141-.333.333v.691c0 .18.14.333.333.333h.268v2.124h-.268c-.18 0-.333.14-.333.333v.69c0 .18.14.334.333.334h1.97c.18 0 .333-.141.333-.333v-.691c0-.192-.153-.346-.333-.346h-.294v-3.135c0-.18-.14-.333-.333-.333zm-.37-2.406c-.052 0-.116 0-.167.013-.051.013-.103.026-.154.051h-.013c-.05.026-.102.052-.14.077-.051.039-.09.064-.128.103-.039.038-.077.076-.103.115-.025.038-.05.09-.076.14-.026.052-.039.103-.052.154-.012.064-.012.115-.012.166 0 .052 0 .116.012.167.013.102.039.153.052.205.025.05.05.102.076.14.026.039.064.077.09.115.038.039.077.077.128.116.038.025.09.064.153.076.052.026.103.039.167.052.064.012.115.012.166.012.051 0 .115 0 .167-.012.05-.013.102-.026.14-.052h.013c.051-.025.103-.05.154-.09.038-.025.076-.063.115-.102l.013-.012c.038-.039.064-.077.09-.115.025-.039.05-.077.063-.128 0-.013 0-.013.013-.026.026-.051.038-.115.051-.166.013-.052.013-.116.013-.167 0-.051 0-.115-.013-.166-.013-.051-.025-.103-.051-.166-.038-.09-.09-.167-.154-.23l-.025-.026c-.039-.039-.077-.064-.128-.103-.051-.025-.09-.051-.14-.077-.052-.025-.103-.038-.154-.05-.064-.014-.116-.014-.167-.014z"/>
+            <text fill="#FFF" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                <tspan x="20" y="30">Release v4.0</tspan>
+            </text>
+            <g transform="translate(0 80)">
+                <use fill="#000" filter="url(#prefix__G)" xlink:href="#prefix__H"/>
+                <use fill="#FFF" xlink:href="#prefix__H"/>
+                <g transform="translate(259 20)">
+                    <use fill="#000" filter="url(#prefix__I)" xlink:href="#prefix__J"/>
+                    <use fill="#FFF" xlink:href="#prefix__J"/>
+                    <g>
+                        <use fill="#000" filter="url(#prefix__K)" xlink:href="#prefix__L"/>
+                        <use fill="#10D69C" xlink:href="#prefix__L"/>
+                    </g>
+                </g>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                    <tspan x="20" y="34">Idea Submission</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 159)">
+                <use fill="#000" filter="url(#prefix__M)" xlink:href="#prefix__N"/>
+                <use fill="#FFF" xlink:href="#prefix__N"/>
+                <g transform="translate(259 19)">
+                    <use fill="#000" filter="url(#prefix__O)" xlink:href="#prefix__P"/>
+                    <use fill="#FFF" xlink:href="#prefix__P"/>
+                    <g>
+                        <use fill="#000" filter="url(#prefix__Q)" xlink:href="#prefix__R"/>
+                        <use fill="#10D69C" xlink:href="#prefix__R"/>
+                    </g>
+                </g>
+                <g transform="translate(20 44)">
+                    <rect width="53" height="21" fill="#F4F4F4" rx="4"/>
+                    <text fill="#8F8F8F" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                        <tspan x="10" y="14">Testing</tspan>
+                    </text>
+                </g>
+                <g transform="translate(83 44)">
+                    <rect width="78" height="20" x=".5" y=".5" fill="#FFF" stroke="#000" rx="4"/>
+                    <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                        <tspan x="10" y="14">Monetization</tspan>
+                    </text>
+                </g>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                    <tspan x="20" y="34">Additional Templates</tspan>
+                </text>
+            </g>
+            <g transform="translate(0 264)">
+                <use fill="#000" filter="url(#prefix__S)" xlink:href="#prefix__T"/>
+                <use fill="#FFF" xlink:href="#prefix__T"/>
+                <g transform="translate(20 44)">
+                    <rect width="65" height="21" fill="#F4F4F4" rx="4"/>
+                    <text fill="#8F8F8F" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                        <tspan x="10" y="14">In-Design</tspan>
+                    </text>
+                </g>
+                <g transform="translate(95 44)">
+                    <rect width="54" height="20" x=".5" y=".5" fill="#FFF" stroke="#000" rx="4"/>
+                    <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="10" font-weight="500">
+                        <tspan x="10" y="14">Growth</tspan>
+                    </text>
+                </g>
+                <text fill="#000" font-family="Nunito Sans, sans-serif" font-size="14" font-weight="600">
+                    <tspan x="20" y="34">Notifications</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

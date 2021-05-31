@@ -1,0 +1,61 @@
+Feature,Description,Start Date,End Date,Release,Status,Owner,RAG Status,Time Horizon,Kanban State,Product,Product Owner,Quarterly,Strategic Theme / Objective
+Single Sign-On,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,iOS App,Luke,Q2,Winning in Global Dining
+Sharing,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,iOS App,Han,Q3,
+Flat UI,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,iOS App,Han,Q1,Winning in Global Dining
+Web channel help page,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,iOS App,Luke,Q2,Platform Modernization
+Chat Support,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,iOS App,Han,Q3,
+In-App Notifications,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,iOS App,Han,Q1,Platform Modernization
+Real-Time P2P Lending,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,iOS App,Luke,Q1,Winning in Global Dining
+Notifications,Description of the feature shows up here.,,,,,,,,,API Platform,Luke,Q4,Financial Relief Program
+Drag and Drop Tool,Description of the feature shows up here.,,,,,,,,,API Platform,Leia,Q4,Platform Modernization
+Decision API Integration,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,Web App,Luke,Q2,
+Firebase Auth,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,Web App,Han,Q3,
+Bank Integration,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,Web App,Leia,Q1,Platform Modernization
+Dashboard,Description of the feature shows up here.,11/30/2020,11/30/2020,Release 2,,,,Near Term,In-Progress,Web App,Leia,Q2,Platform Modernization
+Donate Button,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,Web App,,Q3,
+Payment Reminder ,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,Web App,Leia,Q1,Platform Modernization
+Android Version,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,Web App,,Q2,
+Zendesk Integration,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,Web App,,Q3,
+Drag and Drop Tool,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,Web App,Leia,Q1,Financial Relief Program
+Enrollment,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,,Luke,Q1,Financial Relief Program
+Google Integration,Description of the feature shows up here.,,,,,,,,,API Platform,Luke,Q4,Financial Relief Program
+New Account Indicator,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,API Platform,,Q1,
+New feature for in-app progress,Description of the feature shows up here.,12/01/2020,12/01/2020,Release 2,,,,Near Term,In-Progress,API Platform,,Q2,
+Transport the frog lady,Description of the feature shows up here.,,,,,,,,,,,,Platform Modernization
+Find Asoka ,Description of the feature shows up here.,,,,,,,,,,,,Winning in Global Dining
+Third Party Gateway Integration,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,,Luke,Q1,Financial Relief Program
+Google Analytics,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,API Platform,,Q3,
+Disable Social Logins,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,API Platform,,Q1,
+Apple Pay,Description of the feature shows up here.,11/23/2020,11/23/2020,Release 1,,,,Current,Backlog,,Han,Q1,Winning in Global Dining
+Contract Generation,Description of the feature shows up here.,12/01/2020,12/01/2020,Parked,,,,Long Term,Completed,API Platform,,Q3,
+Profile Enhancements,Description of the feature shows up here.,,,,,,,,,Web App,Leia,Q4,Winning in Global Dining
+Billing View,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,,,Q2,Financial Relief Program
+Bureau Data Ingestion,Description of the feature shows up here.,,,,,,,,,Web App,Han,Q4,Financial Relief Program
+New Feature enhancement,Description of the feature shows up here.,,,,,,,,,Web App,Leia,Q4,Winning in Global Dining
+Browser Testing,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,API Platform,,Q2,
+Feedback Page,Description of the feature shows up here.,,,,,,,,,iOS App,Han,Q4,Platform Modernization
+Hide on a remote planet,Description of the feature shows up here.,,,,,,,,,,,,Winning in Global Dining
+1-Click Save,Description of the feature shows up here.,12/01/2020,12/01/2020,Release 2,,,,Near Term,In-Progress,,Han,Q2,Financial Relief Program
+Auto Save,Description of the feature shows up here.,12/02/2020,12/02/2020,Parked,,,,Long Term,Completed,iOS App,,Q3,
+Login Page Enhancement,Description of the feature shows up here.,,,,,,,,,iOS App,Luke,Q4,Winning in Global Dining
+Permissions,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,,,Q2,Financial Relief Program
+Rescue the kid,Description of the feature shows up here.,12/02/2020,12/02/2020,,,,,,,,,,Platform Modernization
+Go to Tatooine,Description of the feature shows up here.,,,,,,,,,,,,Winning in Global Dining
+Encryption,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,Luke,Q3,Financial Relief Program
+In-App Support 2.0,Description of the feature shows up here.,,,,,,,,,iOS App,Han,Q4,Platform Modernization
+Keyword Research,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,Leia,Q3,Winning in Global Dining
+Find the kid,Description of the feature shows up here.,,,,,,,,,,,,Financial Relief Program
+Third Party Gateway Integration,Description of the feature shows up here.,12/01/2020,12/01/2020,Parked,,,,Long Term,Completed,API Platform,,Q3,
+Easy Setup and Use,Description of the feature shows up here.,12/12/2020,12/12/2020,Parked,,,,Long Term,Completed,,Leia,Q3,Winning in Global Dining
+Touch ID Support,Description of the feature shows up here.,11/25/2020,11/25/2020,Parked,,,,Long Term,Completed,,Luke,Q3,Financial Relief Program
+Social Media,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,,Q3,Platform Modernization
+Idea Submission,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,Leia,Q3,Winning in Global Dining
+Bureau Data Ingestion 2.0,Description of the feature shows up here.,12/02/2020,12/02/2020,Parked,,,,Long Term,Completed,,Luke,Q3,Financial Relief Program
+Fee Segregation,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,,Q3,Platform Modernization
+Facebook Integration,Description of the feature shows up here.,12/12/2020,12/12/2020,Release 2,,,,Near Term,In-Progress,,Leia,Q2,Winning in Global Dining
+In-App Support,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,API Platform,,Q2,
+Instagram Integration,Description of the feature shows up here.,,,Parked,,,,Long Term,Completed,,,Q3,Platform Modernization
+Apple Watch App,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,,Leia,Q2,Winning in Global Dining
+Statement,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,iOS App,Han,Q2,
+Remarketing Campaign,Description of the feature shows up here.,,,Release 2,,,,Near Term,In-Progress,,Han,Q2,Platform Modernization
+Comments Section,Description of the feature shows up here.,,,Release 1,,,,Current,Backlog,API Platform,,Q1,

@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="832px" height="555px" viewBox="0 0 832 555" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>2D image in landing page</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="444" height="43" rx="6"></rect>
+        <filter x="-9.8%" y="-94.2%" width="119.6%" height="302.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feMorphology radius="5.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="3" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="202" height="43" rx="6"></rect>
+        <filter x="-14.9%" y="-58.1%" width="124.8%" height="216.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.866666667   0 0 0 0 0.156862745   0 0 0 0 0.635294118  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-5" x="0" y="0" width="209" height="43" rx="6"></rect>
+        <filter x="-14.4%" y="-58.1%" width="123.9%" height="216.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-5" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.192724924   0 0 0 0 0.646870873   0 0 0 0 0.712267889  0 0 0 0.399338942 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="0" y="10" width="299" height="50" rx="5"></rect>
+        <filter x="-8.4%" y="-40.0%" width="116.7%" height="200.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.415686275   0 0 0 0 0.866666667  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-9" x="0" y="0" width="299" height="59" rx="12"></rect>
+        <filter x="-9.0%" y="-40.7%" width="118.1%" height="191.5%" filterUnits="objectBoundingBox" id="filter-10">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.231372549   0 0 0 0 0.635294118  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-11" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-12">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-13" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-15" x="0" y="0" width="299" height="85" rx="12"></rect>
+        <filter x="-9.0%" y="-28.2%" width="118.1%" height="163.5%" filterUnits="objectBoundingBox" id="filter-16">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-17" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-18">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-19" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-20">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-21" x="0" y="0" width="299" height="85" rx="12"></rect>
+        <filter x="-9.0%" y="-28.2%" width="118.1%" height="163.5%" filterUnits="objectBoundingBox" id="filter-22">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-23" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-24">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-25" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-26">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-27" x="0" y="10" width="299" height="85" rx="12"></rect>
+        <filter x="-13.4%" y="-41.2%" width="126.8%" height="194.1%" filterUnits="objectBoundingBox" id="filter-28">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="12.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.231372549   0 0 0 0 0.635294118  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-29" cx="10" cy="10" r="10"></circle>
+        <filter x="-62.5%" y="-42.5%" width="225.0%" height="225.0%" filterUnits="objectBoundingBox" id="filter-30">
+            <feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.373678986   0 0 0 0 0.468478225   0 0 0 0 0.610677083  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-31" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-32">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-33" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-34">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-35" x="0" y="0" width="299" height="50" rx="5"></rect>
+        <filter x="-8.4%" y="-40.0%" width="116.7%" height="200.0%" filterUnits="objectBoundingBox" id="filter-36">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.156862745   0 0 0 0 0.415686275   0 0 0 0 0.866666667  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-37" x="0" y="0" width="299" height="59" rx="12"></rect>
+        <filter x="-9.0%" y="-40.7%" width="118.1%" height="191.5%" filterUnits="objectBoundingBox" id="filter-38">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.231372549   0 0 0 0 0.635294118  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-39" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-40">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-41" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-42">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-43" x="0" y="0" width="299" height="85" rx="12"></rect>
+        <filter x="-9.0%" y="-28.2%" width="118.1%" height="163.5%" filterUnits="objectBoundingBox" id="filter-44">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.231372549   0 0 0 0 0.635294118  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-45" cx="10" cy="10" r="10"></circle>
+        <filter x="-52.5%" y="-37.5%" width="205.0%" height="205.0%" filterUnits="objectBoundingBox" id="filter-46">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.08 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <circle id="path-47" cx="10" cy="10" r="6"></circle>
+        <filter x="-225.0%" y="-200.0%" width="550.0%" height="550.0%" filterUnits="objectBoundingBox" id="filter-48">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.499462183   0 0 0 0 0.353155079  0 0 0 0.197333916 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-49" x="0" y="0" width="299" height="107" rx="12"></rect>
+        <filter x="-9.0%" y="-22.4%" width="118.1%" height="150.5%" filterUnits="objectBoundingBox" id="filter-50">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="8.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0.231372549   0 0 0 0 0.635294118  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Swimlanes-and-app" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Main-slider-landing-page" transform="translate(-73.000000, -826.000000)">
+            <g id="2D-image-in-landing-page" transform="translate(98.000000, 826.000000)">
+                <g id="Group">
+                    <rect id="separator" fill="#C5D2E4" x="123" y="295" width="684" height="1"></rect>
+                    <rect id="separator" fill="#C5D2E4" x="123" y="541" width="684" height="1"></rect>
+                    <g id="title" transform="translate(21.500000, 305.000000) rotate(-90.000000) translate(-21.500000, -305.000000) translate(-200.500000, 283.500000)">
+                        <g id="titleBG">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                            <use fill="#FCFEFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                        </g>
+                        <text id="Objectives" font-family="Helvetica" font-size="16" font-weight="normal" fill="#3F414D">
+                            <tspan x="184.652344" y="27">Objectives</tspan>
+                        </text>
+                    </g>
+                    <g id="sub-title" transform="translate(81.500000, 185.000000) rotate(-90.000000) translate(-81.500000, -185.000000) translate(-19.500000, 163.500000)">
+                        <g id="titleBG">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                            <use fill="#D241A2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        </g>
+                        <text id="Increase-Revenues" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="37.5727539" y="26">Increase Revenues</tspan>
+                        </text>
+                    </g>
+                    <g id="sub-title" transform="translate(81.500000, 420.500000) rotate(-90.000000) translate(-81.500000, -420.500000) translate(-23.000000, 399.000000)">
+                        <g id="titleBG">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#39B6C8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <text id="New-Market-Launch" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                            <tspan x="38.762207" y="26">New Market Launch</tspan>
+                        </text>
+                    </g>
+                    <g id="graphic1" transform="translate(120.000000, 0.000000)">
+                        <g id="1">
+                            <g id="title">
+                                <g id="titleBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                                    <use fill="#4E83E1" fill-rule="evenodd" xlink:href="#path-7"></use>
+                                </g>
+                                <text id="Q3-2021" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="20" y="40">Q3 2021</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(0.000000, 90.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-10)" xlink:href="#path-9"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-9"></use>
+                                </g>
+                                <g id="RAGstatus" transform="translate(259.000000, 20.000000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-12)" xlink:href="#path-11"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-11"></use>
+                                    </g>
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                                        <use fill="#10D69C" fill-rule="evenodd" xlink:href="#path-13"></use>
+                                    </g>
+                                </g>
+                                <text id="Revamp-subscription" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">Revamp subscription plans</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(2.000000, 317.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-16)" xlink:href="#path-15"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-15"></use>
+                                </g>
+                                <g id="RAGstatus" transform="translate(259.000000, 19.000000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-18)" xlink:href="#path-17"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-17"></use>
+                                    </g>
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-20)" xlink:href="#path-19"></use>
+                                        <use fill="#ED4F73" fill-rule="evenodd" xlink:href="#path-19"></use>
+                                    </g>
+                                </g>
+                                <g id="list" transform="translate(20.000000, 44.000000)">
+                                    <rect id="listBG" fill="#F4F4F4" x="0" y="0" width="81" height="21" rx="4"></rect>
+                                    <text id="Development" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#8F8F8F">
+                                        <tspan x="10" y="14">Development</tspan>
+                                    </text>
+                                </g>
+                                <g id="list" transform="translate(111.000000, 44.000000)">
+                                    <rect id="attributeBG" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="78" height="20" rx="4"></rect>
+                                    <text id="Monetization" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#000000">
+                                        <tspan x="10" y="14">Monetization</tspan>
+                                    </text>
+                                </g>
+                                <text id="UK-launch-of-mvp" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">UK launch of mvp</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(2.000000, 422.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-22)" xlink:href="#path-21"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-21"></use>
+                                </g>
+                                <g id="RAGstatus" transform="translate(259.000000, 19.000000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-24)" xlink:href="#path-23"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-23"></use>
+                                    </g>
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-26)" xlink:href="#path-25"></use>
+                                        <use fill="#10D69C" fill-rule="evenodd" xlink:href="#path-25"></use>
+                                    </g>
+                                </g>
+                                <g id="list" transform="translate(20.000000, 44.000000)">
+                                    <rect id="listBG" fill="#F4F4F4" x="0" y="0" width="40" height="21" rx="4"></rect>
+                                    <text id="UAT" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#8F8F8F">
+                                        <tspan x="10" y="14">UAT</tspan>
+                                    </text>
+                                </g>
+                                <g id="list" transform="translate(70.000000, 44.000000)">
+                                    <rect id="attributeBG" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="56" height="20" rx="4"></rect>
+                                    <text id="Security" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#000000">
+                                        <tspan x="10" y="14">Security</tspan>
+                                    </text>
+                                </g>
+                                <text id="Google-Apps-SSO" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">Google Apps SSO</tspan>
+                                </text>
+                            </g>
+                            <g id="feature-hover3" transform="translate(0.000000, 159.000000)">
+                                <g id="feature">
+                                    <g id="Rectangle">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-28)" xlink:href="#path-27"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-27"></use>
+                                    </g>
+                                    <g id="icon-delete-copy-6" transform="translate(289.000000, 0.000000)">
+                                        <g id="Oval">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-30)" xlink:href="#path-29"></use>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-29"></use>
+                                        </g>
+                                        <path d="M9.99821205,0 C4.47630967,0 0,4.47774003 0,10.0003576 C0,15.52226 4.47630967,20 9.99821205,20 C15.5229751,20 20,15.5215448 20,10.0003576 C20,4.47774003 15.5229751,0 9.99821205,0 Z M13.2308112,8.26032978 L13.2308112,13.892372 C13.2308112,14.5133226 12.7496961,15.0187735 12.1580488,15.0187735 L12.1580488,15.0187735 L7.86696588,15.0187735 C7.27531854,15.0187735 6.79420348,14.5133226 6.79420348,13.892372 L6.79420348,13.892372 L6.79420348,8.26032978 L13.2308112,8.26032978 Z M11.0852864,5.00625782 L11.0852864,5.56945855 L13.767209,5.56945855 L13.767209,6.69586001 L6.25782228,6.69586001 L6.25782228,5.56945855 L8.93974492,5.56945855 L8.93974492,5.00625782 L11.0852864,5.00625782 Z" id="icon-delete" fill="#C5D2E4" fill-rule="nonzero"></path>
+                                    </g>
+                                    <g id="circle" transform="translate(259.000000, 29.000000)">
+                                        <g id="Oval">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-32)" xlink:href="#path-31"></use>
+                                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-31"></use>
+                                        </g>
+                                        <g id="Oval">
+                                            <use fill="black" fill-opacity="1" filter="url(#filter-34)" xlink:href="#path-33"></use>
+                                            <use fill="#10D69C" fill-rule="evenodd" xlink:href="#path-33"></use>
+                                        </g>
+                                    </g>
+                                    <g id="list" transform="translate(20.000000, 54.000000)">
+                                        <rect id="listBG" fill="#F4F4F4" x="0" y="0" width="65" height="21" rx="4"></rect>
+                                        <text id="In-Design" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#8F8F8F">
+                                            <tspan x="10" y="14">In-Design</tspan>
+                                        </text>
+                                    </g>
+                                    <g id="list" transform="translate(95.000000, 54.000000)">
+                                        <rect id="attributeBG" stroke="#000000" fill="#FFFFFF" x="-0.5" y="-0.5" width="73" height="22" rx="4"></rect>
+                                        <path d="M58,11.8171895 C58,11.6148254 58.0746683,11.4123179 58.2248649,11.2540956 C58.5358636,10.9270454 59.0532392,10.9140035 59.3804327,11.2248589 L61.3034649,13.0533016 L63.2131686,11.226722 C63.5392156,10.9147201 64.0565912,10.9261855 64.3687364,11.2523758 C64.6808816,11.5787094 64.6692729,12.0959417 64.3430826,12.4079436 L61.8704283,14.7733964 C61.5551302,15.0749361 61.0585356,15.0755094 60.7422342,14.7752596 L58.2541017,12.40995 C58.0854171,12.2490046 58,12.0335987 58,11.8171895 Z" id="icon-dropdown" fill="#000000" fill-rule="nonzero"></path>
+                                        <text id="On-Track" font-family="Helvetica" font-size="10" font-weight="normal" fill="#000000">
+                                            <tspan x="12" y="15">On-Track</tspan>
+                                        </text>
+                                    </g>
+                                    <text id="Master-Features" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                        <tspan x="20" y="44">Master Features</tspan>
+                                    </text>
+                                </g>
+                                <path d="M167.23886,82.8351576 L158.497674,74.085173 C158.414332,74.0017474 158.28906,73.9772474 158.180068,74.0221731 C158.071077,74.0670988 158,74.1738486 158,74.2916726 L158,87.1249742 C158,87.2480482 158.077496,87.358298 158.193481,87.3997237 C158.308864,87.4417236 158.438808,87.4049737 158.516905,87.3098997 L160.844382,84.4626547 L162.39739,87.8308245 C162.446341,87.9370001 162.551809,88 162.661948,88 C162.700409,88 162.739444,87.9924258 162.776758,87.9760743 L164.816377,87.1010758 C164.888628,87.0701501 164.945746,87.0112517 164.973718,86.9377519 C165.00169,86.864252 164.999368,86.7825764 164.966152,86.7108265 L163.408472,83.3333325 L167.032568,83.3333325 C167.150274,83.3333325 167.256916,83.2621568 167.301797,83.1530828 C167.347251,83.0439814 167.322202,82.9191574 167.23886,82.8351576 Z" id="cursor" fill="#000000"></path>
+                            </g>
+                        </g>
+                        <g id="2" transform="translate(315.000000, 10.000000)">
+                            <g id="title">
+                                <g id="titleBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-36)" xlink:href="#path-35"></use>
+                                    <use fill="#4E83E1" fill-rule="evenodd" xlink:href="#path-35"></use>
+                                </g>
+                                <text id="Q4-2021" font-family="Helvetica-Bold, Helvetica" font-size="14" font-weight="bold" fill="#FFFFFF">
+                                    <tspan x="20" y="30">Q4 2021</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(0.000000, 80.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-38)" xlink:href="#path-37"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-37"></use>
+                                </g>
+                                <g id="RAGstatus" transform="translate(259.000000, 20.000000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-40)" xlink:href="#path-39"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-39"></use>
+                                    </g>
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-42)" xlink:href="#path-41"></use>
+                                        <use fill="#10D69C" fill-rule="evenodd" xlink:href="#path-41"></use>
+                                    </g>
+                                </g>
+                                <text id="Re-marketing-campaig" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">Re-marketing campaign</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(0.000000, 159.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-44)" xlink:href="#path-43"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-43"></use>
+                                </g>
+                                <g id="RAGstatus" transform="translate(259.000000, 19.000000)">
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-46)" xlink:href="#path-45"></use>
+                                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-45"></use>
+                                    </g>
+                                    <g id="Oval">
+                                        <use fill="black" fill-opacity="1" filter="url(#filter-48)" xlink:href="#path-47"></use>
+                                        <use fill="#10D69C" fill-rule="evenodd" xlink:href="#path-47"></use>
+                                    </g>
+                                </g>
+                                <g id="list" transform="translate(20.000000, 44.000000)">
+                                    <rect id="listBG" fill="#F4F4F4" x="0" y="0" width="53" height="21" rx="4"></rect>
+                                    <text id="Testing" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#8F8F8F">
+                                        <tspan x="10" y="14">Testing</tspan>
+                                    </text>
+                                </g>
+                                <g id="list" transform="translate(83.000000, 44.000000)">
+                                    <rect id="attributeBG" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="78" height="20" rx="4"></rect>
+                                    <text id="Monetization" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#000000">
+                                        <tspan x="10" y="14">Monetization</tspan>
+                                    </text>
+                                </g>
+                                <text id="Additional-Templates" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">Additional Templates</tspan>
+                                </text>
+                            </g>
+                            <g id="feature" transform="translate(2.000000, 307.000000)">
+                                <g id="cardBG">
+                                    <use fill="black" fill-opacity="1" filter="url(#filter-50)" xlink:href="#path-49"></use>
+                                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-49"></use>
+                                </g>
+                                <g id="Group-2" transform="translate(18.000000, 45.000000)">
+                                    <rect id="listBG" fill="#F4F4F4" x="0" y="0" width="65" height="21" rx="4"></rect>
+                                    <text id="In-Design" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#8F8F8F">
+                                        <tspan x="10" y="14">In-Design</tspan>
+                                    </text>
+                                    <g id="list" transform="translate(75.000000, 0.000000)">
+                                        <rect id="attributeBG" stroke="#000000" fill="#FFFFFF" x="0.5" y="0.5" width="54" height="20" rx="4"></rect>
+                                        <text id="Growth" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="10" font-weight="500" fill="#000000">
+                                            <tspan x="10" y="14">Growth</tspan>
+                                        </text>
+                                    </g>
+                                </g>
+                                <text id="Notifications" font-family="NunitoSans-SemiBold, Nunito Sans" font-size="14" font-weight="500" fill="#000000">
+                                    <tspan x="20" y="34">Notifications</tspan>
+                                </text>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <text id="Push-notifications-f" font-family="NunitoSans-Regular, Nunito Sans" font-size="12" font-weight="normal" fill="#8F8F8F">
+                    <tspan x="456" y="404">Push notifications functionality for web-app </tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

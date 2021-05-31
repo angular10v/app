@@ -1,0 +1,61 @@
+Feature,Description,Start Date,End Date,Release,Kanban,Owner,RAG Status,Time Horizon,Product,Theme
+Single Sign-On,Description of the feature shows up here.,,,Release 2,In-Progress,Luke,,Near Term,iOS App,Monetization
+Sharing,Description of the feature shows up here.,,,Parked,Completed,Han,,Long Term,iOS App,
+Flat UI,Description of the feature shows up here.,,,Release 1,Backlog,Han,,Current,iOS App,Monetization
+Web channel help page,Description of the feature shows up here.,,,Release 2,In-Progress,Luke,,Near Term,iOS App,Growth
+Chat Support,Description of the feature shows up here.,,,Parked,Completed,Han,,Long Term,iOS App,
+In-App Notifications,Description of the feature shows up here.,,,Release 1,Backlog,Han,,Current,iOS App,Growth
+Real-Time P2P Lending,Description of the feature shows up here.,,,Release 1,Backlog,Luke,,Current,iOS App,Monetization
+Notifications,Description of the feature shows up here.,,,,,Luke,,,API Platform,Enhancements
+Drag and Drop Tool,Description of the feature shows up here.,,,,,Leia,,,API Platform,Growth
+Decision API Integration,Description of the feature shows up here.,,,Release 2,In-Progress,Luke,,Near Term,Web App,
+Firebase Auth,Description of the feature shows up here.,,,Parked,Completed,Han,,Long Term,Web App,
+Bank Integration,Description of the feature shows up here.,,,Release 1,Backlog,Leia,,Current,Web App,Growth
+Dashboard,Description of the feature shows up here.,11/30/2020,11/30/2020,Release 2,In-Progress,Leia,,Near Term,Web App,Growth
+Donate Button,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,Web App,
+Payment Reminder ,Description of the feature shows up here.,,,Release 1,Backlog,Leia,,Current,Web App,Growth
+Android Version,Description of the feature shows up here.,,,Release 2,In-Progress,,,Near Term,Web App,
+Zendesk Integration,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,Web App,
+Drag and Drop Tool,Description of the feature shows up here.,,,Release 1,Backlog,Leia,,Current,Web App,Enhancements
+Enrollment,Description of the feature shows up here.,,,Release 1,Backlog,Luke,,Current,,Enhancements
+Google Integration,Description of the feature shows up here.,,,,,Luke,,,API Platform,Enhancements
+New Account Indicator,Description of the feature shows up here.,,,Release 1,Backlog,,,Current,API Platform,
+New feature for in-app progress,Description of the feature shows up here.,12/01/2020,12/01/2020,Release 2,In-Progress,,,Near Term,API Platform,
+Transport the frog lady,Description of the feature shows up here.,,,,,,,,,Growth
+Find Asoka ,Description of the feature shows up here.,,,,,,,,,Monetization
+Third Party Gateway Integration,Description of the feature shows up here.,,,Release 1,Backlog,Luke,,Current,,Enhancements
+Google Analytics,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,API Platform,
+Disable Social Logins,Description of the feature shows up here.,,,Release 1,Backlog,,,Current,API Platform,
+Apple Pay,Description of the feature shows up here.,11/23/2020,11/23/2020,Release 1,Backlog,Han,,Current,,Monetization
+Contract Generation,Description of the feature shows up here.,12/01/2020,12/01/2020,Parked,Completed,,,Long Term,API Platform,
+Profile Enhancements,Description of the feature shows up here.,,,,,Leia,,,Web App,Monetization
+Billing View,Description of the feature shows up here.,,,Release 2,In-Progress,,,Near Term,,Enhancements
+Bureau Data Ingestion,Description of the feature shows up here.,,,,,Han,,,Web App,Enhancements
+New Feature enhancement,Description of the feature shows up here.,,,,,Leia,,,Web App,Monetization
+Browser Testing,Description of the feature shows up here.,,,Release 2,In-Progress,,,Near Term,API Platform,
+Feedback Page,Description of the feature shows up here.,,,,,Han,,,iOS App,Growth
+Hide on a remote planet,Description of the feature shows up here.,,,,,,,,,Monetization
+1-Click Save,Description of the feature shows up here.,12/01/2020,12/01/2020,Release 2,In-Progress,Han,,Near Term,,Enhancements
+Auto Save,Description of the feature shows up here.,12/02/2020,12/02/2020,Parked,Completed,,,Long Term,iOS App,
+Login Page Enhancement,Description of the feature shows up here.,,,,,Luke,,,iOS App,Monetization
+Permissions,Description of the feature shows up here.,,,Release 2,In-Progress,,,Near Term,,Enhancements
+Rescue the kid,Description of the feature shows up here.,12/02/2020,12/02/2020,,,,,,,Growth
+Go to Tatooine,Description of the feature shows up here.,,,,,,,,,Monetization
+Encryption,Description of the feature shows up here.,,,Parked,Completed,Luke,,Long Term,,Enhancements
+In-App Support 2.0,Description of the feature shows up here.,,,,,Han,,,iOS App,Growth
+Keyword Research,Description of the feature shows up here.,,,Parked,Completed,Leia,,Long Term,,Monetization
+Find the kid,Description of the feature shows up here.,,,,,,,,,Enhancements
+Third Party Gateway Integration,Description of the feature shows up here.,12/01/2020,12/01/2020,Parked,Completed,,,Long Term,API Platform,
+Easy Setup and Use,Description of the feature shows up here.,12/12/2020,12/12/2020,Parked,Completed,Leia,,Long Term,,Monetization
+Touch ID Support,Description of the feature shows up here.,11/25/2020,11/25/2020,Parked,Completed,Luke,,Long Term,,Enhancements
+Social Media,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,,Growth
+Idea Submission,Description of the feature shows up here.,,,Parked,Completed,Leia,,Long Term,,Monetization
+Bureau Data Ingestion 2.0,Description of the feature shows up here.,12/02/2020,12/02/2020,Parked,Completed,Luke,,Long Term,,Enhancements
+Fee Segregation,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,,Growth
+Facebook Integration,Description of the feature shows up here.,12/12/2020,12/12/2020,Release 2,In-Progress,Leia,,Near Term,,Monetization
+In-App Support,Description of the feature shows up here.,,,Release 2,In-Progress,,,Near Term,API Platform,
+Instagram Integration,Description of the feature shows up here.,,,Parked,Completed,,,Long Term,,Growth
+Apple Watch App,Description of the feature shows up here.,,,Release 2,In-Progress,Leia,,Near Term,,Monetization
+Statement,Description of the feature shows up here.,,,Release 2,In-Progress,Han,,Near Term,iOS App,
+Remarketing Campaign,Description of the feature shows up here.,,,Release 2,In-Progress,Han,,Near Term,,Growth
+Comments Section,Description of the feature shows up here.,,,Release 1,Backlog,,,Current,API Platform,
